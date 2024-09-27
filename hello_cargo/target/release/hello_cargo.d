@@ -1,0 +1,1 @@
+/home/gabdandom/Desktop/programming/rust/dRustProgramingLang/buildingBlocks/hello_cargo/target/release/hello_cargo: /home/gabdandom/Desktop/programming/rust/dRustProgramingLang/buildingBlocks/hello_cargo/src/main.rs
